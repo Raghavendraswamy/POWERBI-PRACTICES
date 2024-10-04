@@ -1,0 +1,15 @@
+Task: Append Query
+
+1. create two tables
+
+2. open query editor
+
+3. click on first table , in home tab under combine options
+select append queries as new
+
+4. In Append window select primary table as table1
+and table to append as table2
+
+
+and chek the output
+
